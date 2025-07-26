@@ -1,6 +1,6 @@
 # 🧠 MemorizeGame
 
-Um simples e divertido jogo da memória desenvolvido com SwiftUI, ideal para treinar lógica com a linguagem Swift e o framework SwiftUI. Este jogo foi criado por Luidgi Varela Carneiro.
+Um simples e divertido jogo da memória desenvolvido com SwiftUI, ideal para treinar lógica com a linguagem Swift e o framework SwiftUI. Este jogo foi criado por mim, Luidgi Varela Carneiro.
 
 ![Logo do jogo](4b29bec9-a1c9-4459-84dd-07980f5f11f3.png)
 
